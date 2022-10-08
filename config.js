@@ -25,7 +25,7 @@ var config = {
      */
     imgs: {
         "亲爱的妹妹": "./imgs/meimei.jpg",
-        "今天是你的生日": "./imgs/meimei.jpg",
+        "今天是你的生日": "./imgs/meimei1.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
